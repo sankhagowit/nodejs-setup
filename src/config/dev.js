@@ -1,6 +1,6 @@
 export const config = {
   secrets: {
-    jwt: "devSecretzzz"
+    jwt: ""
   },
-  dbUrl: "mongodb://localhost:27017/dbName"
+  dbUrl: ""
 };
