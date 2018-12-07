@@ -8,6 +8,6 @@
   "execMap": {
     "js": "node"
   },
-  "watch": ["server/**/*.js", "server/**/*.graphql", "server/**/*.gql"],
+  "watch": ["src/**/*.js", "src/**/*.graphql", "src/**/*.gql"],
   "ext": "js,json,graphql"
 }
