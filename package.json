@@ -3,5 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Bobby <bobby@sankhagowit.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon --exec yarn start",
+    "restart": "rimraf dist && yarn build && yarn start"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7",
+    "rimraf": "^2.6.2"
+  }
 }
