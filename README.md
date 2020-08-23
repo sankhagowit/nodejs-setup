@@ -1,4 +1,4 @@
-# Node v10.14 Project Setup
+# Node v12.14.0 Project Setup
 
 This repo contains a project setup and ready for Node development using latest JS features that I've encountered and enjoy.
 
@@ -6,7 +6,7 @@ This repo contains a project setup and ready for Node development using latest J
 - Nodemon to reload project as changes are made in `./src/**/*.js`
 - Babel version 7 giving latest JS features
 - Jest for testing, configured to work through babel
-- ESLint and Prettier ... hopefully playing nicely together
+- ESLint 7 and Prettier 6 ... hopefully playing nicely together
 - config directory to set up values for different `NODE_ENV`
 
 ## Thanks To:
