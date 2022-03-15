@@ -30,7 +30,7 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
-    "lodash-es": "^4.17.14"
+    "lodash-es": "^4.17.21"
   },
   "jest": {
     "verbose": true,
